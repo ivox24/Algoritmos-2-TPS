@@ -1,5 +1,5 @@
 # Algoritmos-2-TPS
-Trabajos Prácticos de la materia Algoritmos y Estructuras de Datos 2
+Trabajos Prácticos de la materia Algoritmos y Estructuras de Datos 2. Cursada el 2do cuatrimestre de 2023
 
 # TP1: Especificación y Weakest Precondition
 
